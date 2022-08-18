@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "Demo App for Al-Go"
+                    },
+                    {
+                        "path":  "DemoAppForAl-Go.Test"
                     }
                 ],
     "settings":  {
