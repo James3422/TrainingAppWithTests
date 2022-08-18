@@ -1,7 +1,10 @@
-{
+﻿{
     "country":  "w1",
-    "appFolders":  ["DemoApp"
-    ],
-    "testFolders":  ["DemoApp.Test"
-    ]
+    "appFolders":  [
+                       "DemoApp"
+                   ],
+    "testFolders":  [
+                        "DemoApp.Test"
+                    ],
+    "RepoVersion":  "1.0"
 }
