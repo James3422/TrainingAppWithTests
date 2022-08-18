@@ -8,6 +8,9 @@
                     },
                     {
                         "path":  "DemoAppForAl-Go.Test"
+                    },
+                    {
+                        "path":  "BD-FullAppWithTests"
                     }
                 ],
     "settings":  {
