@@ -7,6 +7,9 @@
                         "path":  "DemoApp"
                     },
                     {
+                        "path":  "BD-FullAppWithTests"
+                    },
+                    {
                         "path":  "DemoApp.Test"
                     }
                 ],
